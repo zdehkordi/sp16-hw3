@@ -1,9 +1,11 @@
 # README
 
-This is homework 3 and we are getting to the interesting part.  We are getting into migrations (changes to the database), and models (our way with interacting with the data in our database).  To get started fork this repo onto your own account and clone it from your forked repo just like you did [hw2](https://github.com/rails-decal/sp15-hw3).
+We are getting to the interesting parts:  migrations (changes to the database), and models (our way
+of interacting with the data in our database). To get started fork this repo onto your own account
+and clone it from your forked repo just like you did [hw2](https://github.com/rails-decal/fa15-hw2).
 
 ## Overall Specifications
-In the end all we want is Users, Cats, and Todos with the following specifications in the database, to have models defined for them, AND to submit answers to the google doc.  We are going with the very basic TODO app that pretty common in tutorials everywhere.
+In the end all we want is Users, Cats, and Todos with the following specifications in the database, to have models defined for them, AND to submit answers to the answers.md.  We are going with the very basic TODO app that pretty common in tutorials everywhere.
 
 ### Users
 username: A string that contains the username of the User
@@ -66,6 +68,9 @@ Combining all the stuff you learned from the first few lectures make a home page
 ### Extra
 If you are bored try to split into two lists the finished task and the unfinished tasks.
 
+### Final questions
+Answer the questions in answers.md
+
 ## Submitting
 Go to the top of the app and run
 ```
@@ -76,5 +81,4 @@ and push it up to a  repo on your Github account.  If you forked this repo and c
 ```
 git push origin HEAD
 ```
-and submit this [form](https://docs.google.com/forms/d/1yn5HEALzMyvv9JHKB-b_4_CihrANtvdAIbTtVe0n1zY/viewform).
-
+and finally submit it [here](http://www.railsdecal.com/assignments/3)
