@@ -2,7 +2,7 @@
 
 We are getting to the interesting parts:  migrations (changes to the database), and models (our way
 of interacting with the data in our database). To get started fork this repo onto your own account
-and clone it from your forked repo just like you did [hw2](https://github.com/rails-decal/fa15-hw2).
+and clone it from your forked repo just like you did [hw2](https://github.com/rails-decal/sp16-hw2).
 
 ## Overall Specifications
 In the end all we want is Users, Cats, and Todos with the following specifications in the database, to have models defined for them, AND to submit answers to the answers.md.  We are going with the very basic TODO app that pretty common in tutorials everywhere.
@@ -81,4 +81,4 @@ and push it up to a  repo on your Github account.  If you forked this repo and c
 ```
 git push origin HEAD
 ```
-and finally submit it [here](http://www.railsdecal.com/assignments/3)
+and finally submit it [here](http://www.railsdecal.com/assignments/8)
