@@ -1,0 +1,19 @@
+<h1>Welcome!</h1>
+
+<h2> Users! </h2>
+<% @users.each do |user| %>
+  Username: <%= user.username %><br>
+  Email: <%= user.email %><br>
+  Age: <%= user.age %><br>
+  <br>
+<% end %>
+
+<h2> My cats! :3  (In no particular order)</h2>
+<% @cat.each do |cat| %>
+  <%= cat.name%><br>
+<% end %>
+
+<h2> To do list :( </h2>
+<% @todo.each do |todo| %>
+  <%= todo.id %>: <%= todo.item %><br>
+<% end %>
